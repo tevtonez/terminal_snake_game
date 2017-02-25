@@ -1,7 +1,7 @@
 # Snake-ish terminal game
 A simple terminal game written in Python for my 7 years old son
 
-![Octogear Late Night color theme](Screenshot.png?raw=true "Octogear Late Night color theme")
+![Snake terminal game](Screenshot.png?raw=true "Snake terminal game")
 
 ## Install, Run, Play Instructions:
 
