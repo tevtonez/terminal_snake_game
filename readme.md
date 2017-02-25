@@ -1,5 +1,6 @@
 # Snake-ish terminal game
 A simple terminal game written in Python for my 7 years old son
+Interface language - Russian
 
 ![Snake terminal game](screenshot.png?raw=true "Snake terminal game")
 
