@@ -1,7 +1,7 @@
 # Snake-ish terminal game
 A simple terminal game written in Python for my 7 years old son
 
-![Snake terminal game](Screenshot.png?raw=true "Snake terminal game")
+![Snake terminal game](screenshot.png?raw=true "Snake terminal game")
 
 ## Install, Run, Play Instructions:
 
